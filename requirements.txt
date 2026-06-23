@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scipy
+lifelines
+reliability
+scikit-learn
+xgboost
+shap
+jupyter
